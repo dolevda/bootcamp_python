@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test_report>
+<info>
+<test_info>
+<test_status>OK</test_status>
+<time_zone>Israel Standard Time</time_zone>
+<run_started>Thu, 23 Dec 2021 17:46:44</run_started>
+<total_time>00:00:12.291</total_time>
+<project/>
+<user>dolev</user>
+<machine_name>DESKTOP-NDBDT0V</machine_name>
+</test_info>
+<device_info>
+<device_name>SM-G960F</device_name>
+<manufacture>samsung</manufacture>
+<model>SM-G960F</model>
+<os>Android</os>
+<serial_number>2269b6b83a0d7ece</serial_number>
+<version>8.0.0</version>
+<versionMajor>8.x</versionMajor>
+<screen_size>1080x2220</screen_size>
+</device_info>
+</info>
+<reports>
+<report>
+<line>Start steps group 'New Session [android]'</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>0.PNG</imageFile>
+<text>{appPackage=com.experitest.ExperiBank, device.majorVersion=8, dontGoHomeOnQuit=false, device.os=Android, noReset=false, dontStopAppOnReset=false, applicationClearData=false, reservationDuration=240, reportFormat=xml, fullReset=false, deviceUDID=2269b6b83a0d7ece, install.only.for.update=false, desired={appPackage=com.experitest.ExperiBank, appActivity=.LoginActivity, reportDirectory=C:/Users/dolev/PycharmProjects/test_automation/appium_automation/appium_reports, reportFormat=xml, udid=2269b6b83a0d7ece, platformName=android, testName=appium test}, device.serialNumber=2269b6b83a0d7ece, locationServicesAuthorized=false, device.version=8.0.0, reportDirectory=C:/Users/dolev/PycharmProjects/test_automation/appium_automation/appium_reports, autoWebview=false, udid=2269b6b83a0d7ece, platformName=android, testName=appium test, device.screenSize=1080x2220, useKeystore=false, test.type=Mobile, commandTimeouts=120000, device.manufacture=samsung, instrumentApp=false, appiumVersion=1.8.0, autoDismissAlerts=false, reportUrl=C:\Users\dolev\PycharmProjects\test_automation\appium_automation\appium_reports\test0, newSessionWaitTimeout=600, keystorePath=~/.android/debug.keystore, appActivity=.LoginActivity, installOnlyForUpdate=false, waitForDeviceTimeout=120000, device.model=SM-G960F, device.name=SM-G960F, autoGrantPermissions=false, appBuildVersion=, appReleaseVersion=, takeScreenshots=true, projectName=, autoAcceptAlerts=false}</text>
+<line>Init Actual Capabilities</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>1.PNG</imageFile>
+<text>NATIVE_APP</text>
+<line>Init Context [NATIVE_APP]</line>
+<status>true</status>
+</report>
+<report>
+<text>PHONE</text>
+<line>Get device property: device.category</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>2.PNG</imageFile>
+<line>Get context list</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>3.PNG</imageFile>
+<line>Set property android.native.nonInstrumented to: true</line>
+<status>true</status>
+</report>
+<report>
+<text>Writing device log to C:\Users\dolev\AppData\Local\Temp\AppiumStudio\deviceLogs_16402744058582432820344227577475.log</text>
+<line>Start writing device log for SM-G960F</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>4.PNG</imageFile>
+<line>Launch native activity / URL com.experitest.ExperiBank/.LoginActivity</line>
+<status>true</status>
+</report>
+<report>
+<line>Device Action: wake</line>
+<status>true</status>
+</report>
+<report>
+<line>Stop steps group</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>5.PNG</imageFile>
+<line>Quit</line>
+<status>true</status>
+</report>
+</reports>
+</test_report>
